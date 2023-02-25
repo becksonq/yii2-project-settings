@@ -10,12 +10,12 @@
       "email": "becksonq@gmail.com"
     }
   ],
-  "prefer-stable": true,
+  "minimum-stability": "dev",
   "require": {
     "../../vendor/yiisoft/yii2": "~2.0.0"
   },
   "extra": {
-    "bootstrap": "becksonq\\project\\settings\\Bootstrap"
+    "bootstrap": "becksonq\\project\\ settings\\Bootstrap"
   },
   "autoload": {
     "psr-4": {
