@@ -1,6 +1,6 @@
 <?php
 
-namespace becksonq\settings;
+namespace becksonq\project\settings;
 
 use yii\base\Application;
 
@@ -20,6 +20,6 @@ class Bootstrap implements \yii\base\BootstrapInterface
             'settings' => 'becksonq/settings/index',
         ], false);
 
-        $app->setModule('settings', ['becksonq\settings\Module']);
+        $app->setModule('settings', ['becksonq\project\settings\Module']);
     }
 }

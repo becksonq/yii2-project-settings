@@ -1,6 +1,6 @@
 <?php
 
-namespace becksonq\settings;
+namespace becksonq\project\settings;
 
 /**
  * settings module definition class

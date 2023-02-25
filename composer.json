@@ -15,11 +15,11 @@
     "../../vendor/yiisoft/yii2": "~2.0.0"
   },
   "extra": {
-    "bootstrap": "becksonq\\settings\\Bootstrap"
+    "bootstrap": "becksonq\\project\\settings\\Bootstrap"
   },
   "autoload": {
     "psr-4": {
-      "becksonq\\settings\\": "src"
+      "becksonq\\project\\settings\\": "src"
     }
   }
 }
